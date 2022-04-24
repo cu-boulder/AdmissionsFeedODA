@@ -1,0 +1,11 @@
+
+/***********************************
+* sequential processing needs a different library
+************************************/
+
+alter session set current_schema = sysadm;
+
+select max(LASTUPD_EW_DTTM) from sysadm.cu_adm_main_final;
+
+--select max(LASTUPD_EW_DTTM) from cu_bld_ir.admapp ;
+select sysdate-1 from dual;
