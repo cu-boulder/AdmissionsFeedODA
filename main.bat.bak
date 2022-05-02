@@ -1,5 +1,0 @@
-
-@echo off
-
-
-call "C:\Strawberry\perl\bin\perl.exe" "C:\Users\pana5770\Documents\newfolder\pipelineadmapp\main.pl"

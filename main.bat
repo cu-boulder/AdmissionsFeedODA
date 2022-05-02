@@ -13,4 +13,4 @@ call "C:\Strawberry\perl\bin\perl.exe"
 
 Rem call the perl file
 
-call "C:\Users\pana5770\Documents\newfolder\pipelineadmapp\main.pl"
+call "C:\Users\<insert-path-here>\main.pl"
