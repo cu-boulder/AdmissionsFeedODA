@@ -37,3 +37,5 @@ The pipeline is divided into the following steps in that particular order:
 Secrets are not included/stored in the environment for security reasons
 
 Paths are removed from the environment. Please set the paths before execution
+
+Please contact the office of data analytics for more information
